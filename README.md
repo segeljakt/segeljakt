@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<p align="center">
+  <img src="https://www.outsideonline.com/sites/default/files/styles/img_600x339/public/2016/09/28/westworld-horses-behind-the-scenes.jpg?itok=kb09fOTg">
+</p>
 
 <!--
 **segeljakt/segeljakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
